@@ -1,4 +1,4 @@
-﻿using HotlineAutoTest.webdriver;
+﻿using AutoTest.webdriver;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.Support.PageObjects;
@@ -9,7 +9,7 @@ using System;
 //using System.Text;
 using System.Threading.Tasks;
 
-namespace HotlineAutoTest.pages
+namespace AutoTest.pages
 {
     public class GooglePage:BasePage
     {

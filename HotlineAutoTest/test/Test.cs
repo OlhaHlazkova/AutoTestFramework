@@ -5,12 +5,12 @@ using OpenQA.Selenium.Support.PageObjects;
 using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.Support.UI;
 using System;
-using HotlineAutoTest.pages;
-using HotlineAutoTest.webdriver;
+using AutoTest.pages;
+using AutoTest.webdriver;
 using OpenQA.Selenium.Chrome;
 using System.Configuration;
 
-namespace HotlineAutoTest
+namespace AutoTest
 {
     [TestFixture]
     public class Test: BaseTest

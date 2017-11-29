@@ -1,4 +1,4 @@
-﻿using HotlineAutoTest.webdriver;
+﻿using AutoTest.webdriver;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Interactions;
 using OpenQA.Selenium.Support.UI;
@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HotlineAutoTest.pages
+namespace AutoTest.pages
 {
     public class SmartPhonesPage:BasePage
     {

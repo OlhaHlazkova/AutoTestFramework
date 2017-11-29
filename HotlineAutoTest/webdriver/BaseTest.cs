@@ -5,7 +5,7 @@ using System;
 //using System.Text;
 using System.Threading.Tasks;
 
-namespace HotlineAutoTest.webdriver
+namespace AutoTest.webdriver
 {
     public class BaseTest
     {

@@ -8,7 +8,7 @@ using System.Collections.ObjectModel;
 using System.Drawing;
 using OpenQA.Selenium.Support.UI;
 
-namespace HotlineAutoTest.webdriver
+namespace AutoTest.webdriver
 {
     public class BaseElement : IWebElement
     {

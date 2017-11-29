@@ -1,8 +1,8 @@
-﻿using HotlineAutoTest.webdriver;
+﻿using AutoTest.webdriver;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Support.PageObjects;
 
-namespace HotlineAutoTest.pages
+namespace AutoTest.pages
 {
     public class HotLinePage:BasePage
     {

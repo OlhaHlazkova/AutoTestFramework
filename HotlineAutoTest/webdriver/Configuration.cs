@@ -5,7 +5,7 @@ using System.Configuration;
 //using System.Text;
 //using System.Threading.Tasks;
 
-namespace HotlineAutoTest.webdriver
+namespace AutoTest.webdriver
 {
     class Configuration
     {
